@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lista Alumnos</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_activity_name">Todos los alumnos</string>
+    <string name="add_task_activity_name">Agregar nuevo Alumno</string>
+
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="edit_description">Nombre del Alumno</string>
+    <string name="priority_string">Prioridad</string>
+
+    <string name="add_button">Agregar</string>
+    <string name="update_button">Actualizar</string>
+</resources>
